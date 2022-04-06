@@ -8,6 +8,7 @@ larroque.guillaume@gmail.com<br/>
 </a>
 
 
+
 ### Langages et outils
 <img align="left" style="width:25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
 <img align="left" style="width:25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" />
