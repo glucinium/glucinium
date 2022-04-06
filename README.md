@@ -6,7 +6,7 @@ larroque.guillaume@gmail.com<br/>
 <a href="https://www.linkedin.com/in/guillaume-larroque-2a7739125/">
 <img align="left" style="width:25px" src="https://github.com/glucinium/glucinium/blob/main/img/icons8-linkedin.svg" />
 </a>
-<br/>
+
 
 ### Langages et outils
 <img align="left" style="width:25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
