@@ -2,7 +2,8 @@
 
 
 ### Contact 
-![img_contact](./img/globe-light.svg)()
+larroque.guillaume@gmail.com
+!['img/icons8-linkedin.svg']('https://www.linkedin.com/in/guillaume-larroque-2a7739125/')
 
 ### Langages et outils
 
