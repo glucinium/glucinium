@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+
+### Contact 
+![img_contact](./img/globe-light.svg)()
+
+### Langages et outils
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg"  style="width:25px"/>]
+          
 
 <!--
 **glucinium/glucinium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
