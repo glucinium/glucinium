@@ -5,8 +5,17 @@
 ![img_contact](./img/globe-light.svg)()
 
 ### Langages et outils
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg"  style="width:25px"/>]
-          
+
+<img style="width:25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+<img style="width:25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" />
+<img style="width:25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img style="width:25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img style="width:25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />        
+<img style="width:25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img style="width:25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img style="width:25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img style="width:25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 
 <!--
 **glucinium/glucinium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
